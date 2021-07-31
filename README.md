@@ -1,6 +1,6 @@
 # submission_dicoding
 
-A new Flutter project.
+Tolong jalankan 'flutter pub get' pada terminal terlebih dahulu sebelum memulai aplikasi.
 
 ## Getting Started
 
